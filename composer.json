@@ -1,0 +1,24 @@
+{
+    "name": "ninadhatkar/dynamo",
+    "type": "library",
+    "description": "Testing with pacakagist",
+    "keywords": ["test","ignore"],
+    "homepage": "https://github.com/Seldaek/monolog",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ninad Hatkar",
+            "email": "hatkarninad@gmail.com",
+            "homepage": "http://ninadhatkar.io",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Dynamo": "src"
+        }
+    }
+}
